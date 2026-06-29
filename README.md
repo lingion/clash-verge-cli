@@ -1,4 +1,13 @@
-# Clash Verge CLI 🖥️
+<p align="center">
+  <a href="https://github.com/lingion/clash-verge-cli/stargazers"><img src="https://img.shields.io/github/stars/lingion/clash-verge-cli?style=for-the-badge&logo=github&color=FFD700" alt="Stars"></a>
+  <a href="https://github.com/lingion/clash-verge-cli/network/members"><img src="https://img.shields.io/github/forks/lingion/clash-verge-cli?style=for-the-badge&logo=github&color=8B5CF6" alt="Forks"></a>
+  <a href="https://github.com/lingion/clash-verge-cli/issues"><img src="https://img.shields.io/github/issues/lingion/clash-verge-cli?style=for-the-badge&logo=github&color=EF4444" alt="Issues"></a>
+  <a href="https://github.com/lingion/clash-verge-cli/blob/main/LICENSE"><img src="https://img.shields.io/github/license/lingion/clash-verge-cli?style=for-the-badge&logo=github&color=10B981" alt="License"></a>
+  <br>
+  <a href="https://github.com/lingion/clash-verge-cli/commits/main"><img src="https://img.shields.io/github/last-commit/lingion/clash-verge-cli?style=flat-square" alt="Last commit"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://palletsprojects.com/p/click/"><img src="https://img.shields.io/badge/Click-8.x-009688?style=flat-square" alt="Click"></a>
+</p>
 
 Enhanced command-line interface for Clash Verge VPN client on macOS and Windows.
 
