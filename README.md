@@ -217,6 +217,12 @@ clash-verge backup
 clash-verge guardian --interval 300
 ```
 
+## Documentation
+
+- **[Operation Guide](https://blog.qdp.qzz.io/docs/clash-verge/overview)** — step-by-step user manual: installation, configuration, how it works, and troubleshooting
+
+---
+
 ## License
 
 MIT License
